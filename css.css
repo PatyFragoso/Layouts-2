@@ -1,0 +1,82 @@
+﻿html.body{
+            width: 100%;
+            height: 100%;
+            margin:0px;
+        }
+
+        .pagina{
+            width: 1175px;
+            height: 0 auto;
+            margin: auto;
+        }
+
+        .acima-25{
+           margin-top: 25px
+        }
+
+        .esquerda-25{
+            margin-left:25px;
+        }
+
+        .limpar{
+            clear: both;
+        }
+
+        .bloco-a{
+            position: relative;
+            width: 1175px;
+            height:650px ;
+            background: #ff1a75 ;
+            
+           
+        }
+
+         .bloco-b{
+            position: relative;
+            width: 1175px;
+            height:350px ;
+            background:#00FFFF;
+            float:left;
+            
+        }
+
+         .bloco-c{
+            position: relative;
+            width: 1175px;
+            height:200px ;
+            background: #98FB98 ;
+            float:left;
+            
+        }
+
+         .bloco-d{
+            position: relative;
+            width: 1175px;
+            height:150px ;
+            background: #1E90FF ;
+            float: left;
+        }
+
+         .bloco-e{
+            position: relative;
+            width:425px;
+            height:625px;
+            background: #B03060;
+            float: left;
+        }
+
+        .bloco-f{
+            position: relative;
+            width: 425px;
+            height:625px ;
+            background: #8B7D7B;
+            float: left;
+        }
+
+        .bloco-g{
+            position: relative;
+            width: 275px;
+            height:625px ;
+            background: #458B74 ;
+             float: left;
+        }
